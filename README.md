@@ -11,23 +11,17 @@ Installation
 To install and run Bankist, follow these steps:
 
 Clone the repository using the following command:
-bash
-Copy code
 git clone https://github.com/neelriteshyadav/bankist.git
 Install the required dependencies using the following command:
-bash
-Copy code
+
 npm install
 Start the application using the following command:
-bash
-Copy code
+
 npm start
 Open your web browser and navigate to http://localhost:3000 to access the application.
 Usage
 Bankist has a simple user interface that allows users to perform various banking transactions. To get started, create a new account or use one of the following demo accounts:
 
-yaml
-Copy code
 Username: js     Password: 1111
 Username: jd     Password: 2222
 Username: stw    Password: 3333
